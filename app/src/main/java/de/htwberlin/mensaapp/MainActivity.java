@@ -1,5 +1,9 @@
 package de.htwberlin.mensaapp;
 
+/**
+ * @since 1.0
+ */
+
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
